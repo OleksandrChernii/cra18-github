@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cra18-github/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cra18-github/static/js/main.a960ec6a.chunk.js",
+    "main.js.map": "/cra18-github/static/js/main.a960ec6a.chunk.js.map",
+    "runtime-main.js": "/cra18-github/static/js/runtime-main.a0afb44d.js",
+    "runtime-main.js.map": "/cra18-github/static/js/runtime-main.a0afb44d.js.map",
+    "static/js/2.bbcc65c7.chunk.js": "/cra18-github/static/js/2.bbcc65c7.chunk.js",
+    "static/js/2.bbcc65c7.chunk.js.map": "/cra18-github/static/js/2.bbcc65c7.chunk.js.map",
+    "index.html": "/cra18-github/index.html",
+    "precache-manifest.7ca954fe8de687f589890c5a8d58f241.js": "/cra18-github/precache-manifest.7ca954fe8de687f589890c5a8d58f241.js",
+    "service-worker.js": "/cra18-github/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cra18-github/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bbcc65c7.chunk.js.LICENSE.txt": "/cra18-github/static/js/2.bbcc65c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0afb44d.js",
+    "static/js/2.bbcc65c7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a960ec6a.chunk.js"
+  ]
+}
